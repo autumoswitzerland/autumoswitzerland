@@ -6,7 +6,7 @@
     <td style="padding: 0;">
       <div style="width: 300px; margin: auto; padding: 10px; background-color: #f9f9f9; text-align: center; vertical-align: top;">
         <br>
-        <img src="https://raw.githubusercontent.com/autumoswitzerland/autumo-beetroot/master/web/img/autumo-beetroot-login.webp" alt="autumo Beetroot" width="300"><br>
+        <img src="https://github.com/autumoswitzerland/autumo-beetroot/blob/master/web/img/autumo-beetroot-login.webp" alt="autumo Beetroot" width="300"><br>
         <strong>autumo Beetroot</strong> – beetRoot is a lightweight and fast Java web and secure client-server framework that works out of the box. If you know CakePHP, you'll like beetRoot. It's based on the same principles and has a full CRUD generator that generates all views, model specification and controllers based on the database model.<br><br>
         <a href="https://github.com/autumoswitzerland/autumo-beetroot">Repo</a><br><br>
       </div>
