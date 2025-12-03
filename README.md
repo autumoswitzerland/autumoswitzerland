@@ -1,4 +1,7 @@
-### autumo Switzerland develops modular software solutions and products for developers and enterprises.
+<details>
+<summary>### autumo Switzerland develops modular software solutions and products for developers and enterprises.</summary>
+
+<br>
 
 <table style="border-collapse: collapse; width: 100%;">
   <!-- Erste Produktreihe -->
@@ -52,3 +55,5 @@
     </td>
   </tr>
 </table>
+
+</details>
