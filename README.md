@@ -1,5 +1,5 @@
-<details>
-<summary>### autumo Switzerland develops modular software solutions and products for developers and enterprises.</summary>
+<details open>
+<summary><h3>autumo Switzerland develops modular software solutions and products for developers and enterprises.</h3></summary>
 
 <br>
 
