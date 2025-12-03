@@ -1,4 +1,4 @@
-autumo Switzerland develops modular software solutions and products for developers and enterprises.
+# autumo Switzerland develops modular software solutions and products for developers and enterprises.
 
 <table style="border-collapse: collapse; width: 100%;">
   <!-- Erste Produktreihe -->
