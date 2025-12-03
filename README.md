@@ -1,5 +1,5 @@
 <details open>
-<summary style="font-size: 20px; font-weight: 600; margin: 0; padding: 0;"><strong>autumo Switzerland develops modular software solutions and products for developers and enterprises.</strong>strong></summary>
+<summary><strong>autumo Switzerland develops modular software solutions and products for developers and enterprises.</strong></summary>
 
 <br>
 
