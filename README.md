@@ -43,7 +43,7 @@ autumo Switzerland develops modular software solutions and products for develope
       <div style="width: 300px; margin: auto; padding: 10px; background-color: #ffffff; text-align: center; vertical-align: top;">
         <img src="./images/studio.webp" alt="ifaceX Studio" width="300"><br>
         <strong>ifaceX Studio</strong> – The IDE / Studio for autumo ifaceX; configure and develop your IPCs within a GUI, configure your ifaceX installation and test your IPCs.<br><br>
-        <a href="https://github.com/autumoswitzerland/autumo-studio">Repo</a><br>
+        <a href="https://github.com/autumoswitzerland/autumo-ifacex-studio-public">Repo</a><br>
       </div>
     </td>
   </tr>
