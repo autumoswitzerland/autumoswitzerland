@@ -3,33 +3,37 @@ autumo Switzerland develops modular software solutions and products for develope
 <table style="border-collapse: collapse; width: 100%;">
   <!-- Erste Produktreihe -->
   <tr>
-    <td style="width: 50%; padding: 10px; vertical-align: top; background-color: #f9f9f9; text-align: center;">
-      <img src="https://raw.githubusercontent.com/autumoswitzerland/autumo-beetroot/master/web/img/autumo-beetroot-login.webp" alt="autumo Beetroot" width="300"><br>
-      <strong>autumo Beetroot</strong><br>
-      beetRoot is a lightweight Java web & client-server framework.<br>
-      <a href="https://github.com/autumoswitzerland/autumo-beetroot">Repo</a>
+    <td style="padding: 0;">
+      <div style="width: 300px; margin: auto; padding: 10px; background-color: #f9f9f9; text-align: center; vertical-align: top;">
+        <img src="https://raw.githubusercontent.com/autumoswitzerland/autumo-beetroot/master/web/img/autumo-beetroot-login.webp" alt="autumo Beetroot" width="300"><br>
+        <strong>autumo Beetroot</strong> – beetRoot is a lightweight and fast Java web and secure client-server framework that works out of the box. If you know CakePHP, you'll like beetRoot. It's based on the same principles and has a full CRUD generator that generates all views, model specification and controllers based on the database model.<br>
+        <a href="https://github.com/autumoswitzerland/autumo-beetroot">Repo</a>
+      </div>
     </td>
-    <td style="width: 50%; padding: 10px; vertical-align: top; background-color: #ffffff; text-align: center;">
-      <img src="./images/ifacex.webp" alt="autumo ifaceX" width="300"><br>
-      <strong>autumo ifaceX</strong><br>
-      simplifies professional IT operations and Big Data interface exchange.<br>
-      <a href="https://ifacex.autumo.ch/">Product Page</a>
+    <td style="padding: 0;">
+      <div style="width: 300px; margin: auto; padding: 10px; background-color: #ffffff; text-align: center; vertical-align: top;">
+        <img src="./images/ifacex.webp" alt="autumo ifaceX" width="300"><br>
+        <strong>autumo ifaceX</strong> - autumo ifaceX simplifies professional IT operations in monitoring their processes and Big Data interface exchange, integration and transformation, between clouds, databases and web interfaces for companies of any size. It is built to excel in enterprises with settled operation & monitoring.<br>
+        <a href="https://ifacex.autumo.ch/">Product Page</a>
+      </div>
     </td>
   </tr>
 
   <!-- Zweite Produktreihe -->
   <tr>
-    <td style="width: 50%; padding: 10px; vertical-align: top; background-color: #f9f9f9; text-align: center;">
-      <img src="./images/products.webp" alt="autumo enterprise products" width="300"><br>
-      <strong>autumo enterprise products</strong><br>
-      all software solutions including medical & legal apps, web frameworks, data integration platforms.<br>
-      <a href="https://products.autumo.ch">Products</a>
+    <td style="padding: 0;">
+      <div style="width: 300px; margin: auto; padding: 10px; background-color: #f9f9f9; text-align: center; vertical-align: top;">
+        <img src="./images/products.webp" alt="autumo enterprise products" width="300"><br>
+        <strong>autumo enterprise products</strong> -All software solutions, including medical and legal applications, web frameworks, data integration platforms, and AI-powered chatbots.<br>
+        <a href="https://products.autumo.ch">Products</a>
+      </div>
     </td>
-    <td style="width: 50%; padding: 10px; vertical-align: top; background-color: #ffffff; text-align: center;">
-      <img src="./images/studio.webp" alt="ifaceX Studio" width="300"><br>
-      <strong>ifaceX Studio</strong><br>
-      IDE for autumo ifaceX; configure & develop IPCs within GUI.<br>
-      <a href="https://github.com/autumoswitzerland/autumo-studio">Repo</a>
+    <td style="padding: 0;">
+      <div style="width: 300px; margin: auto; padding: 10px; background-color: #ffffff; text-align: center; vertical-align: top;">
+        <img src="./images/studio.webp" alt="ifaceX Studio" width="300"><br>
+        <strong>ifaceX Studio</strong> – The IDE / Studio for autumo ifaceX; configure and develop your IPCs within a GUI, configure your ifaceX installation and test your IPCs.<br>
+        <a href="https://github.com/autumoswitzerland/autumo-studio">Repo</a>
+      </div>
     </td>
   </tr>
 </table>
