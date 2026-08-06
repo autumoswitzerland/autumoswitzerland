@@ -21,6 +21,7 @@
       <br>
       <img src="https://raw.githubusercontent.com/autumoswitzerland/autumo-sentinel/master/app/resources/performance.png" alt="autumo Sentinel" width="300"><br>
       <br>
+      <br>
       <strong>autumo Sentinel</strong> – A heuristic-driven, multi-stage scanner for detecting supply-chain malware, loaders, obfuscation, and persistence in source code, scripts, and build artifacts. Unlike signature-based scanners, it emphasizes contextual rule combinations to model realistic attack flows.<br><br>
       <a href="https://github.com/autumoswitzerland/autumo-sentinel">Repo</a><br><br>
     </div>
