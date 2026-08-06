@@ -4,7 +4,40 @@
 <br>
 
 <table style="border-collapse: collapse; width: 100%;">
-  <!-- Erste Produktreihe -->
+
+  <!-- 1st row -->
+  <tr>
+    <td style="padding: 0;">
+      <div style="width: 300px; margin: auto; padding: 10px; background-color: #f9f9f9; text-align: center; vertical-align: top;">
+        <br>
+        <img src="https://raw.githubusercontent.com/autumoswitzerland/Webduck/refs/heads/master/src/webduck/static/screen_dashboard.webp" alt="Webduck" width="300"><br>
+        <strong>WebDuck</strong> – A self-hosted DuckDB-as-a-Service server with REST API and Web UI. WebDuck is designed for web hosting providers who want to offer their customers a ready-to-use administration interface for DuckDB databases and data analytics — out of the box, just like the database admin tools that come with any hosting package.<br><br>
+        <a href="https://github.com/autumoswitzerland/Webduck">Repo</a><br><br>
+      </div>
+    </td>
+    <td style="padding: 0;">
+    <div style="width: 300px; margin: auto; padding: 10px; background-color: #f9f9f9; text-align: center; vertical-align: top;">
+      <br>
+      <img src="https://raw.githubusercontent.com/autumoswitzerland/autumo-sentinel/master/app/resources/performance.png" alt="autumo Sentinel" width="300"><br>
+      <strong>autumo Sentinel</strong> – A heuristic-driven, multi-stage scanner for detecting supply-chain malware, loaders, obfuscation, and persistence in source code, scripts, and build artifacts. Unlike signature-based scanners, it emphasizes contextual rule combinations to model realistic attack flows.<br><br>
+      <a href="https://github.com/autumoswitzerland/autumo-sentinel">Repo</a><br><br>
+    </div>
+    </td>
+  </tr>
+
+  <!-- Spacer -->
+  <tr>
+    <td style="padding: 0;">
+      <div style="width: 300px; margin: auto; padding: 10px; background-color: #f9f9f9; text-align: center; vertical-align: top;">
+      </div>
+    </td>
+    <td style="padding: 0;">
+      <div style="width: 300px; margin: auto; padding: 10px; background-color: #ffffff; text-align: center; vertical-align: top;">
+      </div>
+    </td>
+  </tr>
+
+  <!-- 2nd row -->
   <tr>
     <td style="padding: 0;">
       <div style="width: 300px; margin: auto; padding: 10px; background-color: #f9f9f9; text-align: center; vertical-align: top;">
@@ -24,6 +57,7 @@
     </td>
   </tr>
 
+  <!-- Spacer -->
   <tr>
     <td style="padding: 0;">
       <div style="width: 300px; margin: auto; padding: 10px; background-color: #f9f9f9; text-align: center; vertical-align: top;">
@@ -35,7 +69,7 @@
     </td>
   </tr>
 
-  <!-- Zweite Produktreihe -->
+  <!-- 3rd row -->
   <tr>
     <td style="padding: 0;">
       <div style="width: 300px; margin: auto; padding: 10px; background-color: #f9f9f9; text-align: center; vertical-align: top;">
