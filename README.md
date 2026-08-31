@@ -5,7 +5,31 @@
 
 <table style="border-collapse: collapse; width: 100%;">
 
-  <!-- 1st row -->
+  <!-- ROW -->
+  <tr>
+    <td colspan="2" style="padding: 0;">
+      <div style="margin: auto; padding: 10px; background-color: #f9f9f9; text-align: center; vertical-align: top;">
+        <br>
+        <img src="https://raw.githubusercontent.com/autumoswitzerland/jip/refs/heads/master/social-preview.png" alt="jip"><br>
+        <strong>jip</strong> – A pip-like dependency manager and runner for Java — clone it. Run it. Done. Clone a project, run it — jip handles dependencies, compilation, and execution in a single binary with a single slim config file.<br><br>
+        <a href="https://github.com/autumoswitzerland/jip">Repo</a><br><br>
+      </div>
+    </td>
+  </tr>
+
+  <!-- Spacer -->
+  <tr>
+    <td style="padding: 0;">
+      <div style="width: 300px; margin: auto; padding: 10px; background-color: #f9f9f9; text-align: center; vertical-align: top;">
+      </div>
+    </td>
+    <td style="padding: 0;">
+      <div style="width: 300px; margin: auto; padding: 10px; background-color: #ffffff; text-align: center; vertical-align: top;">
+      </div>
+    </td>
+  </tr>
+  
+  <!-- ROW -->
   <tr>
     <td style="padding: 0;">
       <div style="width: 300px; margin: auto; padding: 10px; background-color: #f9f9f9; text-align: center; vertical-align: top;">
@@ -16,15 +40,15 @@
       </div>
     </td>
     <td style="padding: 0;">
-    <div style="width: 300px; margin: auto; padding: 10px; background-color: #f9f9f9; text-align: center; vertical-align: top;">
-      <br>
-      <br>
-      <img src="https://raw.githubusercontent.com/autumoswitzerland/autumo-sentinel/master/app/resources/performance.png" alt="autumo Sentinel" width="300"><br>
-      <br>
-      <br>
-      <strong>autumo Sentinel</strong> – A heuristic-driven, multi-stage scanner for detecting supply-chain malware, loaders, obfuscation, and persistence in source code, scripts, and build artifacts. Unlike signature-based scanners, it emphasizes contextual rule combinations to model realistic attack flows.<br><br>
-      <a href="https://github.com/autumoswitzerland/autumo-sentinel">Repo</a><br><br>
-    </div>
+      <div style="width: 300px; margin: auto; padding: 10px; background-color: #f9f9f9; text-align: center; vertical-align: top;">
+        <br>
+        <br>
+        <img src="https://raw.githubusercontent.com/autumoswitzerland/autumo-sentinel/master/app/resources/performance.png" alt="autumo Sentinel" width="300"><br>
+        <br>
+        <br>
+        <strong>autumo Sentinel</strong> – A heuristic-driven, multi-stage scanner for detecting supply-chain malware, loaders, obfuscation, and persistence in source code, scripts, and build artifacts. Unlike signature-based scanners, it emphasizes contextual rule combinations to model realistic attack flows.<br><br>
+        <a href="https://github.com/autumoswitzerland/autumo-sentinel">Repo</a><br><br>
+      </div>
     </td>
   </tr>
 
@@ -40,7 +64,7 @@
     </td>
   </tr>
 
-  <!-- 2nd row -->
+  <!-- ROW -->
   <tr>
     <td style="padding: 0;">
       <div style="width: 300px; margin: auto; padding: 10px; background-color: #f9f9f9; text-align: center; vertical-align: top;">
@@ -72,7 +96,7 @@
     </td>
   </tr>
 
-  <!-- 3rd row -->
+  <!-- ROW -->
   <tr>
     <td style="padding: 0;">
       <div style="width: 300px; margin: auto; padding: 10px; background-color: #f9f9f9; text-align: center; vertical-align: top;">
