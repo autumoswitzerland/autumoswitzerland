@@ -10,7 +10,7 @@
     <td colspan="2" style="padding: 0;">
       <div style="margin: auto; padding: 10px; background-color: #f9f9f9; text-align: center; vertical-align: top;">
         <br>
-        <img src="https://raw.githubusercontent.com/autumoswitzerland/jip/refs/heads/master/social-preview.png" alt="jip" width="800"><br>
+        <img src="https://raw.githubusercontent.com/autumoswitzerland/jip/refs/heads/master/social-preview.png" alt="jip" width="600"><br>
         <strong>jip</strong> – A pip-like dependency manager and runner for Java — clone it. Run it. Done. Clone a project, run it — jip handles dependencies, compilation, and execution in a single binary with a single slim config file.<br><br>
         <a href="https://github.com/autumoswitzerland/jip">Repo</a><br><br>
       </div>
