@@ -7,6 +7,26 @@
 
   <!-- ROW -->
   <tr>
+    <td style="padding: 0;">
+      <div style="width: 300px; margin: auto; padding: 10px; background-color: #f9f9f9; text-align: center; vertical-align: top;">
+        <br>
+        <img src="https://raw.githubusercontent.com/autumoswitzerland/autumo-ui-fx/master/etc/doc/autumo-ui-fx-logo.png" alt="autumo UI FX" width="300"><br>
+        <strong>autumo UI FX</strong> – Rapid JavaFX desktop application framework: application shell with lifecycle, installer, i18n (PO/gettext), theming, settings, recent files, standard dialogs, logging (SLF4J/Log4j2) and update checks. Builds native installers for macOS, Windows and Linux.<br><br>
+        <a href="https://github.com/autumoswitzerland/autumo-ui-fx">Repo</a><br><br>
+      </div>
+    </td>
+    <td style="padding: 0;">
+      <div style="width: 300px; margin: auto; padding: 10px; background-color: #f9f9f9; text-align: center; vertical-align: top;">
+        <br>
+        <img src="https://raw.githubusercontent.com/autumoswitzerland/autumo-ui-fx/master/etc/doc/autumo-ui-fx-logo.png" alt="autumo UI FX Demo" width="300"><br>
+        <strong>autumo UI FX Demo</strong> – Demo application for the autumo UI FX JavaFX framework: shows the application shell, MVC structure, theming, i18n, installer, dialogs, code editor and JSON formatter. Builds native installers for macOS (x64/arm64), Windows and Linux via GitHub Actions.<br><br>
+        <a href="https://github.com/autumoswitzerland/autumo-ui-fx-demo">Repo</a><br><br>
+      </div>
+    </td>
+  </tr>
+
+  <!-- ROW -->
+  <tr>
     <td colspan="2" style="padding: 0;">
       <div style="margin: auto; padding: 10px; background-color: #f9f9f9; text-align: center; vertical-align: top;">
         <br>
@@ -109,9 +129,9 @@
     <td style="padding: 0;">
       <br>
       <div style="width: 300px; margin: auto; padding: 10px; background-color: #ffffff; text-align: center; vertical-align: top;">
-        <img src="./images/studio.webp" alt="ifaceX Studio" width="300"><br>
-        <strong>ifaceX Studio</strong> – The IDE / Studio for autumo ifaceX; configure and develop your IPCs within a GUI, configure your ifaceX installation and test your IPCs.<br><br>
-        <a href="https://github.com/autumoswitzerland/autumo-ifacex-studio-public">Repo</a><br><br>
+        <img src="https://raw.githubusercontent.com/autumoswitzerland/autumo-ifacex-studio-fx-public/master/images/ifaceX-Studio-FX-Screen.webp" alt="ifaceX Studio" width="300"><br>
+        <strong>ifaceX Studio FX</strong> – The IDE / Studio for autumo ifaceX; configure and develop your IPCs within a GUI, configure your ifaceX installation and test your IPCs.<br><br>
+        <a href="https://github.com/autumoswitzerland/autumo-ifacex-studio-fx-public">Repo</a><br><br>
       </div>
     </td>
   </tr>
