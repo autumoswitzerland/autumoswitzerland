@@ -10,7 +10,7 @@
     <td style="padding: 0;">
       <div style="width: 300px; margin: auto; padding: 10px; background-color: #f9f9f9; text-align: center; vertical-align: top;">
         <br>
-        <img src="https://raw.githubusercontent.com/autumoswitzerland/autumo-ui-fx/master/etc/doc/autumo-ui-fx-logo.png" alt="autumo UI FX" width="300"><br>
+        <img src="https://raw.githubusercontent.com/autumoswitzerland/autumo-ui-fx/master/etc/doc/autumo-ui-fx-logo.png" alt="autumo UI FX" width="256"><br>
         <strong>autumo UI FX</strong> – Rapid JavaFX desktop application framework: application shell with lifecycle, installer, i18n (PO/gettext), theming, settings, recent files, standard dialogs, logging (SLF4J/Log4j2) and update checks. Builds native installers for macOS, Windows and Linux.<br><br>
         <a href="https://github.com/autumoswitzerland/autumo-ui-fx">Repo</a><br><br>
       </div>
@@ -18,13 +18,25 @@
     <td style="padding: 0;">
       <div style="width: 300px; margin: auto; padding: 10px; background-color: #f9f9f9; text-align: center; vertical-align: top;">
         <br>
-        <img src="https://raw.githubusercontent.com/autumoswitzerland/autumo-ui-fx/master/etc/doc/autumo-ui-fx-logo.png" alt="autumo UI FX Demo" width="300"><br>
+        <img src="https://raw.githubusercontent.com/autumoswitzerland/autumo-ui-fx/master/etc/doc/autumo-ui-fx-logo.png" alt="autumo UI FX Demo" width="256"><br>
         <strong>autumo UI FX Demo</strong> – Demo application for the autumo UI FX JavaFX framework: shows the application shell, MVC structure, theming, i18n, installer, dialogs, code editor and JSON formatter. Builds native installers for macOS (x64/arm64), Windows and Linux via GitHub Actions.<br><br>
         <a href="https://github.com/autumoswitzerland/autumo-ui-fx-demo">Repo</a><br><br>
       </div>
     </td>
   </tr>
 
+  <!-- Spacer -->
+  <tr>
+    <td style="padding: 0;">
+      <div style="width: 300px; margin: auto; padding: 10px; background-color: #f9f9f9; text-align: center; vertical-align: top;">
+      </div>
+    </td>
+    <td style="padding: 0;">
+      <div style="width: 300px; margin: auto; padding: 10px; background-color: #ffffff; text-align: center; vertical-align: top;">
+      </div>
+    </td>
+  </tr>
+  
   <!-- ROW -->
   <tr>
     <td colspan="2" style="padding: 0;">
